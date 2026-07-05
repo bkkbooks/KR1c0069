@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1c0069_001.yaml, hash: 'sha256:15a4d6e7d0cf2ae79cb974d6a320adf45e95302ba67faf1b7d245a353ecc06bd'}
+  - {seq: 1, filename: KR1c0069_001.yaml, hash: 'sha256:72db845cf662c904517c7ecd0a6d0fde044b207cf10512bb056558de40cdddc8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1c0069_001.markers.yaml, hash: 'sha256:5d9b9d764f84e9ecb420c20368716d1810088e2e89405d24901f8a64b6e96727'}
+  - {seq: 1, role: markers, filename: assets/KR1c0069_001.markers.yaml, hash: 'sha256:747e6809a0745d02dcbc44b7daddc7fbcc5dfc5684d44dbaf246b960865d206f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 毛詩國風
   type: section
   level: 1
-hash: sha256:4e20c040a1ccb1c82a4ec12b95c056e68f82ffb1de1dfb465c5b1a563dee4547
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f5375a5b8cfcaf03f3ad21701b37585cdd59ce9a1a83129c4755fd6c1f1dbf2b
